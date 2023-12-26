@@ -15,7 +15,8 @@ Ensured the project's reliability through extensive testing, covering unit tests
 
 ## 🗃️ Modules:
 - [ ] Users
-- [ ] Products
+- [X] Products
 - [ ] Cart
 - [ ] Orders
 - [ ] Payments integration
+- [ ] Email integration
