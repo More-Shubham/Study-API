@@ -14,4 +14,8 @@
 Ensured the project's reliability through extensive testing, covering unit tests, integration tests, and end-to-end tests. This ensures that every aspect of the application functions seamlessly, providing a smooth and secure shopping experience.
 
 ## 🗃️ Modules:
+- [ ] Users
 - [ ] Products
+- [ ] Cart
+- [ ] Orders
+- [ ] Payments integration
